@@ -88,9 +88,9 @@ $ whoami
 
 <div align="center">
 
-![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanGhor&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JeanGhor&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGhor&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeanGhor&theme=high-contrast&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
